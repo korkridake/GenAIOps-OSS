@@ -20,4 +20,4 @@ EOSQL
 create_user_and_database litellm  litellm  litellm_password
 create_user_and_database langfuse langfuse langfuse_password
 
-echo "PostgreSQL databases initialised."
+echo "PostgreSQL databases initialized."
